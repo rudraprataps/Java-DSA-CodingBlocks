@@ -1,5 +1,6 @@
 # Java-DSA-CodingBlocks
 This repository contains all the codes, projects and everything related to JAVA DSA course from Coding Blocks. 
+<br/>
 If you also want to do the same course or any other course from Coding Blocks, then i can surely help you in joining to it with a great discounted price.  
 
 # Contributions
